@@ -42,7 +42,7 @@ Start the development server:
 
 bun run dev
 
-Planned Features
+## Planned Features
 
 AI-generated quizzes
 
