@@ -42,18 +42,6 @@ Start the development server:
 
 bun run dev
 
-## Planned Features
-
-AI-generated quizzes
-
-Voice-based interaction
-
-Dark mode support
-
-User login system
-
-Study tracking dashboard
-
 
 Author
 
